@@ -48,4 +48,4 @@ fn define_x() -> &'static str {
 //讲解
 //这个解法和解法一的不同之处，在于输出中的:?和函数的定义。
 //:?属于格式化输出，所以最终的输出中，hello外面会出现双引号。
-//函数的定义这边，&‘static str是返回了&str，所以不用to_string了。而'static，则是生命周期相关的。
+//函数的定义这边，&'static str是返回了&str，所以不用to_string了。而'static，则是生命周期相关的。
