@@ -20,7 +20,7 @@ fn main() {
     }
     assert_eq!(x, 5);
     let x = 42;
-    println!("{}", x); // 输出 "42".
+    println!("{}", x);
 }
 //42
 
