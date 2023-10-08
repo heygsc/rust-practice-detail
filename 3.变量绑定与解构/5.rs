@@ -1,3 +1,4 @@
+//题目
 // 只允许修改 `assert_eq!` 来让 `println!` 工作(在终端输出 `42`)
 fn main() {
     let x: i32 = 5;
