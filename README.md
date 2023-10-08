@@ -1,5 +1,5 @@
-# rust-practice
-rust练习-注释讲解版
+### rust-practice
+### rust练习-注释讲解版
 
 🚀本仓库，收录了一些rust习题，包括:习题&答案&注释(含讲解)。
 
