@@ -13,5 +13,4 @@ fn main() {
     let y: i32; 
     println!("x is equal to {}", x); 
 }
-
 //x is equal to 1
