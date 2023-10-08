@@ -10,6 +10,6 @@
 
 🎨习题来源:[rust-by-practice](https://github.com/sunface/rust-by-practice)。原习题仓库包含了答案，而本仓库则额外包含一些**讲解**等等。
 
-## 🌟写讲解还是挺需要花心思的，欢迎点亮star，你的star是极大的鼓励:)
+## 🌟写讲解还是挺需要花心思的，欢迎点亮star，这是极大的鼓励:)
 
-🛠欢迎issue，pr等。
+🛠欢迎issue，pr，把仓库分享给朋友等等。
