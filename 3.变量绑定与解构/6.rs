@@ -10,11 +10,7 @@ fn main() {
     let y = "I can also be bound to text!"; 
 }
 
-//讲解&答案
-//第一行x可变，所以后面x=7没问题。
-//x=x，变量遮蔽，变为默认的不可变。
-//需要加上mut，才可以x+=3。
-//y变量遮蔽，没有问题。
+//答案
 fn main() {
     let mut x: i32 = 1;
     x = 7;
@@ -23,3 +19,9 @@ fn main() {
     let y = 4;
     let y = "I can also be bound to text!"; 
 }
+
+//讲解
+//第一行x可变，所以后面x=7没问题。
+//x=x，变量遮蔽，变为默认的不可变。
+//需要加上mut，才可以x+=3。
+//y变量遮蔽，没有问题。
