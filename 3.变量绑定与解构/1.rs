@@ -5,12 +5,14 @@ fn main() {
     println!("x is equal to {}", x); 
 }
 
-//讲解&答案
-//println输出，用到了x。
-//x用let定义了，但未初始化。此处可以在x定义的同时初始化一个值。
+//答案
 fn main() {
     let x: i32 = 1; // 初始化
     let y: i32; 
     println!("x is equal to {}", x); 
 }
 //x is equal to 1
+
+//讲解
+//println输出，用到了x。
+//x用let定义了，但未初始化。此处可以在x定义的同时初始化一个值。
