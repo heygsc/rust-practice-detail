@@ -7,7 +7,7 @@ fn main() {
 
 //答案
 fn main() {
-    let _x = 1; 
+    let _x = 1; // _x，添加了下划线
 }
 
 //讲解
