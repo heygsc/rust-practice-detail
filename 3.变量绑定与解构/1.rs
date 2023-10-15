@@ -8,7 +8,7 @@ fn main() {
 
 //答案
 fn main() {
-    let x: i32 = 1; // 初始化
+    let x: i32 = 1; // 初始化为1
     let y: i32; 
     println!("x is equal to {}", x); 
 }
