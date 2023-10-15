@@ -9,7 +9,7 @@ fn main() {
 
 //答案
 fn main() {
-    let (mut x, y) = (1, 2);
+    let (mut x, y) = (1, 2);  //添加了mut，使x可变
     x += 2;
 
     assert_eq!(x, 3);
