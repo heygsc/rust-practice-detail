@@ -8,8 +8,8 @@ fn main() {
 //答案
 // 填空，让代码工作
 fn main() {
-    assert_eq!(i8::MAX, 127); 
-    assert_eq!(u8::MAX, 255); 
+    assert_eq!(i8::MAX, 127);  // i8最大值
+    assert_eq!(u8::MAX, 255);  // u8最大值
 }
 
 //讲解
