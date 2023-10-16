@@ -36,6 +36,8 @@ fn implicitly_ret_unit() {
 fn explicitly_ret_unit() -> () {
     println!("I will return a ()")
 }
+//I will return a ()
+//Success!
 
 //讲解
 // implicitly_ret_unit函数中，println!() 的返回值，是单元类型 ()。
