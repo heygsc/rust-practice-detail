@@ -22,6 +22,7 @@ fn main() {
 
     println!("Success!")
 } 
+//Success!
 
 //讲解
 // 字符类型占用 4 个字节。
