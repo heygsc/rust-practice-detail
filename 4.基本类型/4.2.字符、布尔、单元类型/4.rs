@@ -15,6 +15,7 @@ fn main() {
 
     println!("Success!")
 }
+//Success!
 
 //讲解
 // &&是同时满足，两个true才为true。
