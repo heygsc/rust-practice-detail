@@ -24,5 +24,5 @@ fn take_ownership(s: String) -> String {
 }
 
 //讲解
-// println 后面语句，没有返回
-//这里用 s 作为返回，并加上 String 类型
+// println 这里是语句，没有返回
+//用 s 作为返回，并加上 String 类型
