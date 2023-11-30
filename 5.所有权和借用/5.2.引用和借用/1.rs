@@ -10,7 +10,7 @@ fn main() {
 //答案
 fn main() {
    let x = 5;
-   let p = &x;
+   let p = &x; // &x
    println!("x 的内存地址是 {:p}", p); 
 }
 
