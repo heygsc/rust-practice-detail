@@ -36,4 +36,4 @@ fn greetings(s: &str) {
 
 //法2
 //Box是在堆中，可以用 * 解开Box，变回Box<T>中的T类型
-//初始的T是str，这里再加上&，T即为&str
+//初始的T是str，这里再加上&，T变为&str
