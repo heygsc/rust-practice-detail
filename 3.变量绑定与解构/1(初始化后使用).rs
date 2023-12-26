@@ -15,5 +15,5 @@ fn main() {
 //x is equal to 1
 
 //讲解
-// println 输出，用到了 x 。
+// println 输出(宏使用 ! 调用)，用到了 x 。
 // x 用 let 定义了，但未初始化。此处可以在 x 定义的同时初始化一个值。
